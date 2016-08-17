@@ -1,0 +1,120 @@
+10 September 2013 -
+Amended returned outline form from supervisor
+Created agenda
+
+11 September 2013 -
+Continued on completion of Investigation into DirectX - Direct3D.doc
+Created bibliogaphy.txt - which will be updated 
+Websites visited :
+	http://www.directxtutorial.com/Lesson.aspx?lessonid=9-1-2
+Started "Usage of DX" draft. Written to DX Usage.doc
+
+17 September 2013 -
+Downloaded source files for setting up a window ready for DirectX from MSDN. 
+Link: http://code.msdn.microsoft.com/windowsdesktop/Direct3D-Tutorial-Win32-829979ef#content
+Started on writing a prototype for the basic window application, ready for implementation of DirectX functions.
+
+18 September 2013 -
+Continued with writing the window program ready for DirectX - comments on all the code can be found in the source files.
+Started mindmapping the uses of DirectX and its implementation with Dx.
+
+24 September 2013 -
+Got project outline form return from my supervisor, amendments have been made to the 
+" the topic researched or activity/task to be carried out and sources to be consulted " part.
+Iíve started reading further about using DirectX and incorporating it into my first prototype running DirectX. 
++ created template for SourceReferences.doc 
++ renamed Log.txt to TechLog.txt
+more info on these files can be found inside them.
+
+1 October 2013 -
+Continued on research
+
+2 October 2013 -
+Continued on research and programming
++ created slide "The Basics.pptx" - showing and explaining the basics of a win32 window app.
+Started mindmapping on a new idea for the whole structure of the EPQ
+
+8 October 2013 - 
+Presentation from member of the library. 
+
+9 October 2013 - 
+Absent.
+
+15 October 2013 -
+Further reading on C++ involved on realising the artefact.
+
+16th October 2013 -
+
+Further development of the artefact program. 
+
+
+
+22nd October 2013 - 
+
+
+Further development of the artefact program.
+
+
+
+23 October 2013 -
+
+
+Geometric shapes have successfully been printed to the screen!
+
+
+Half Term: Monday 28th October 2013 - Friday 1st November 2013 
+
+
+
+5th November 2013 -
+ 
+Continuing with understanding geometry, coordinates and rendering.
+
+
+
+6th November to 11th of december 2013 -
+
+Continuation of the 5th.
+
+
+
+12th December to 17th of december 2013 -
+
+Begin reading on rotation matrices, vertex transformation and shape transformation and rotation on the whole.
+
+
+
+December - January half term.
+
+
+
+14th January 2014 to 11th of February -
+
+Further study of the DirectX API and the mathematical operations it processes. 
+
+(Yes, a whole month was dedicated to the theoretical side of the project…)
+
+
+
+18th February 2014 - 24th of February
+Begin producing a dynamic and interactive artefact with rotating models.
+
+19th February 2014 - 25th February -
+
+Continuation of the 18th with rotating model working with transformations and panning.
+
+
+
+1st week of March -
+
+Artefact has been finished and is ready for presentation - all rotation and translations are finished and 
+information printed to the screen.
+
+
+
+12 March - 
+Presentation given.
+
+
+
+

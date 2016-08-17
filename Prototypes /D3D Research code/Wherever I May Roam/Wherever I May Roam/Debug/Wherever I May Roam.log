@@ -1,0 +1,20 @@
+﻿Build started 2/4/2014 7:47:20 PM.
+     1>Project "E:\College\Charles\Computing\EPQ\D3D Research code\Wherever I May Roam\Wherever I May Roam\Wherever I May Roam.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Wherever I May Roam.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Wherever I May Roam.unsuccessfulbuild".
+         Touching "Debug\Wherever I May Roam.lastbuildstate".
+     1>Done Building Project "E:\College\Charles\Computing\EPQ\D3D Research code\Wherever I May Roam\Wherever I May Roam\Wherever I May Roam.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.10

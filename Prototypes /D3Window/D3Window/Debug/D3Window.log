@@ -1,0 +1,17 @@
+﻿Build started 21/01/2014 13:14:47.
+     1>Project "F:\College\Charles\Computing\EPQ\D3Window\D3Window\D3Window.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\D3Window.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\College\Charles\Computing\EPQ\D3Window\Debug\D3Window.exe" /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x64" /LIBPATH:"C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86" d3dx9.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\D3Window.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\College\Charles\Computing\EPQ\D3Window\Debug\D3Window.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\College\Charles\Computing\EPQ\D3Window\Debug\D3Window.lib" /MACHINE:X86 Debug\GRect.obj
+         Debug\main.obj
+         d3dx9.lib
+     1>main.obj : error LNK2019: unresolved external symbol _Direct3DCreate9@4 referenced in function "void __cdecl initializeD3D(struct HWND__ *)" (?initializeD3D@@YAXPAUHWND__@@@Z)
+     1>F:\College\Charles\Computing\EPQ\D3Window\Debug\D3Window.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "F:\College\Charles\Computing\EPQ\D3Window\D3Window\D3Window.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.79
